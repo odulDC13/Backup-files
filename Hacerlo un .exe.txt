@@ -1,0 +1,8 @@
+
+pip install pyinstaller 
+
+
+cd "ruta en donde se encuentra el script"
+
+
+pyinstaller --onefile pass.file.py
