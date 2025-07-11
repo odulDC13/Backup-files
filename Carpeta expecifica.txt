@@ -1,0 +1,1 @@
+source_folder = os.path.join(os.environ['USERPROFILE'], 'Desktop', 'mood')
